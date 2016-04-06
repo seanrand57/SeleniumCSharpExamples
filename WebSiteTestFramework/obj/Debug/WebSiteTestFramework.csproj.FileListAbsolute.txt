@@ -1,0 +1,9 @@
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebSiteTestFramework.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebSiteTestFramework.pdb
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebDriver.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebDriver.Support.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebDriver.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Debug\WebDriver.Support.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\obj\Debug\WebSiteTestFramework.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\obj\Debug\WebSiteTestFramework.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\obj\Debug\WebSiteTestFramework.pdb

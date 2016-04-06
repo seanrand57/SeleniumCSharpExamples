@@ -1,0 +1,8 @@
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebSiteTestFramework.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebSiteTestFramework.pdb
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebDriver.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebDriver.Support.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebDriver.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\bin\Release\WebDriver.Support.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\obj\Release\WebSiteTestFramework.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSiteTestFramework\obj\Release\WebSiteTestFramework.pdb

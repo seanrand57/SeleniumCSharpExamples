@@ -1,0 +1,11 @@
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\SeleniumCSharpExamples.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\SeleniumCSharpExamples.pdb
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebSiteTestFramework.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebDriver.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebDriver.Support.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebSiteTestFramework.pdb
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebDriver.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\bin\Debug\WebDriver.Support.xml
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\obj\Debug\WebSiteTests.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\obj\Debug\SeleniumCSharpExamples.dll
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\SeleniumCSharpExamples\obj\Debug\SeleniumCSharpExamples.pdb
