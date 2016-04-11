@@ -25,6 +25,14 @@ namespace SeleniumCSharpExamples
             Assert.IsTrue(Pages.TopNavigation.CurrentURL().Equals("http://www.seleniumhq.org/projects/"));
         }
 
+        [TestMethod]
+        [TestCategory("smoke")]
+        public void IsAtTheHomePage()
+        {
+            Pages.Home.Goto();
+            Assert.IsTrue(Pages.Home.IsAt());
+        }
+
         [TestInitialize]
         public void Initialize()
         {

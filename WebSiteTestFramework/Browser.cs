@@ -12,11 +12,19 @@ namespace WebSiteTestFramework
     public static class Browser
     {
         private static string baseUrl = ApplicationSettings.GetBaseURL();
-        private static IWebDriver webDriver = new FirefoxDriver();
+        private static IWebDriver webDriver = null;
 
-        public static ISearchContext Driver 
+        public static IWebDriver Driver 
         {
-            get { return webDriver; }  
+            get { return webDriver ?? (webDriver = CreateDriver()); }  
+        }
+
+        private static IWebDriver CreateDriver()
+        {
+            webDriver = new FirefoxDriver();
+            webDriver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+            webDriver.Manage().Window.Maximize();
+            return webDriver;
         }
 
         public static void Initialize()
@@ -24,14 +32,20 @@ namespace WebSiteTestFramework
             Goto("");
         }
 
+        public static string Title
+        {
+            get { return Driver.Title; }
+        }
+
         public static void Goto(string url)
         {
-            webDriver.Url = baseUrl + url;
+            Driver.Url = baseUrl + url;
         }
 
         public static void Close()
         {
-            webDriver.Close();
+            Driver.Quit();
+            webDriver = null;
         }
 
         public static void GoHome()

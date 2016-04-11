@@ -49,3 +49,4 @@ E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSite\bin\Microsoft.Owin.Secur
 E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSite\bin\Microsoft.Owin.Security.OAuth.xml
 E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSite\obj\Release\WebSite.dll
 E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSite\obj\Release\WebSite.pdb
+E:\Dev\GitHub\SeleniumC#\SeleniumCSharpExamples\WebSite\obj\Release\WebSite.csprojResolveAssemblyReference.cache

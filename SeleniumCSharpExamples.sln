@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteTests", "SeleniumCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.csproj", "{8368EB6A-C84F-40EC-A12B-B02BBF37DB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteTestFramework", "WebSiteTestFramework\WebSiteTestFramework.csproj", "{3C8B7A23-6087-4B54-B4FE-03B7A9F28E0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSitePageObjectsFramework", "WebSiteTestFramework\WebSitePageObjectsFramework.csproj", "{3C8B7A23-6087-4B54-B4FE-03B7A9F28E0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
